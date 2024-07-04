@@ -1,5 +1,5 @@
 task: spartqa_train
-dataset_path: my-hf-username/spartqa-train-1k
+dataset_path: tkgsn/spartqa-train-1k
 output_type: multiple_choice
 training_split: train
 validation_split: train
